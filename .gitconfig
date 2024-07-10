@@ -1,0 +1,11 @@
+[user]
+	email = mtvajranet@gmail.com
+	name = mikeTh
+[core]
+	editor = code --wait
+[color]
+	ui = auto
+[merge]
+	conflictstyle = diff3
+[use]
+	name = mikeTh
